@@ -1,6 +1,6 @@
-# Scala Homework
+# Scala  
 
-CSYE7200 Homework6 web-crawler  
+CSYE7200 web-crawler  
   
 Fangqing Wu  
 001305642  
